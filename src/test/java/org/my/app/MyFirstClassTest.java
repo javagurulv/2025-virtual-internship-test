@@ -1,9 +1,15 @@
 package org.my.app;
 
-import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
 
 class MyFirstClassTest {
 
+
+    @Test
+    public void test() {
+
+    }
 
 
 }
