@@ -10,7 +10,7 @@ class MyFirstClassTest {
 
     @Test
     public void test() {
-        assertTrue(true)
+        assertTrue(true);
     }
 
 
